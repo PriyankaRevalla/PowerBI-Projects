@@ -1,5 +1,18 @@
 # 🐾 Echo of the Voiceless
 
+## 📸 Dashboard Preview
+
+### Dashboard 1
+![Dashboard 1](<Echo%20of%20the%20Voiceless%201.png>)
+
+### Dashboard 2
+![Dashboard 2](<Echo%20of%20the%20Voiceless%202.png>)
+
+### Dashboard 3
+![Dashboard 3](<Echo%20of%20the%20Voiceless%203.png>)
+
+---
+
 ## 📌 Overview
 Echo of the Voiceless is an interactive Power BI dashboard developed to analyze animal welfare data, including rescue, adoption, and related trends. The dashboard helps transform raw data into meaningful visual insights for better decision-making.
 
