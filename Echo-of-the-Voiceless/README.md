@@ -1,7 +1,6 @@
 # 🐾 Echo of the Voiceless
 
 ## 📸 Dashboard Preview
-
 ### Dashboard 1
 ![Dashboard 1](<Echo%20of%20the%20Voiceless%201.png>)
 
