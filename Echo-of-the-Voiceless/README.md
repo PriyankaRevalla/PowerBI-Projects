@@ -25,4 +25,4 @@ Echo of the Voiceless is an interactive Power BI dashboard developed to analyze 
 
 ## 📁 Files
 - Power BI Dashboard (.pbix)
-- Dashboard Screenshots
+
