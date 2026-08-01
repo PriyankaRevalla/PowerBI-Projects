@@ -1,4 +1,19 @@
 # 📈 Track & Thrive
+## 📸 Dashboard Preview
+
+### Dashboard 1 – Sales Overview
+![Dashboard 1](<Track & Thrive 1.png>)
+
+### Dashboard 2 – Customer Analysis
+![Dashboard 2](<Track & Thrive 2.png>)
+
+### Dashboard 3 – Delivery & Returns
+![Dashboard 3](<Track & Thrive 3.png>)
+
+### Dashboard 4 – Warehouse Performance
+![Dashboard 4](<Track & Thrive 4.png>)
+
+---
 
 ## 📌 Overview
 
