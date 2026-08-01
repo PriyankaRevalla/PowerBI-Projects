@@ -1,5 +1,18 @@
 # 📚 LitLens
 
+## 📸 Dashboard Preview
+
+### Dashboard 1
+![Dashboard 1](<Litlens 1.png>)
+
+### Dashboard 2
+![Dashboard 2](<Litlens 2.png>)
+
+### Dashboard 3
+![Dashboard 3](<Litlens 3.png>)
+
+---
+
 ## 📌 Overview
 
 LitLens is an interactive Power BI dashboard designed to analyze global reading trends, book preferences, genres, publishers, and reader engagement. The dashboard transforms book-related data into meaningful visual insights to support data-driven analysis.
